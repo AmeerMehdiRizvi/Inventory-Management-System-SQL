@@ -1,7 +1,7 @@
 # 📦 Inventory Management System (SQL)
 
 ## Overview
-This is a MySQL based Inventory Management System designed to manage items, suppliers, purchases, and sales. It demonstrates real - world
+This is a MySQL based Inventory Management System designed to manage items, suppliers, purchases, and sales. It demonstrates real world
 relational database design with proper use of primary keys, foreign keys, and SQL queries for analysis.
 
 ## Features
