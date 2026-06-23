@@ -14,10 +14,10 @@ Item Management (Name, Category, Price, Stock)
 
 ## Database Structure
 ### Tables Used:
-- **Items** Product Details and Stock Information
-- **Suppliers** Supplier Information
-- **Purchases** Records of Stock purchased
-- **Sales** Records of Stock Sold
+- **Items** ➡ Product Details and Stock Information
+- **Suppliers** ➡ Supplier Information
+- **Purchases** ➡ Records of Stock purchased
+- **Sales** ➡ Records of Stock Sold
 
 ### Relationship Flow:
 Suppliers ➡ Purchases ➡ Items ➡ Sales
